@@ -4,7 +4,7 @@ local phis_playername = ''
 local phis_capsart = phis_textures['default']
 
 -- update function
-local function phisOnEvent()
+local function phis_OnEvent()
 	-- get player name and realm (UniName() only returns realm names when they differ from the player's realm)
 	phis_playername = UnitName('player')
 	phis_playername = phis_playername..'-'..GetRealmName()
