@@ -11,5 +11,5 @@ The addon automatically changes the action bar cap art either to a default or a 
     - `images/_tmp.pdn` is a paint.net template file to check the texture's measurements
 
 ## Changes
-- **1.0b**: Update for Dragonflight; caps art now stored in saved variables instead of an extra table
+- **1.0.0b**: Update for Dragonflight; caps art now stored in saved variables instead of an extra table
 - **0.9**: Initial upload
