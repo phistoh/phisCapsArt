@@ -2,7 +2,7 @@
 ## Author: phistoh
 ## Title: phisCapsArt
 ## Notes: Changes the action bar end arts on a per character basis. (Inspired by the original addons from SAM, ganders and Imithat)
-## Version: 0.9.1
+## Version: 1.0.0b
 ## SavedVariablesPerCharacter: personalCapsArt
 
 phisCapsArt.lua
